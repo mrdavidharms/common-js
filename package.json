@@ -1,0 +1,22 @@
+{
+  "name": "commonjs-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdavidharms/common-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdavidharms/common-js/issues"
+  },
+  "homepage": "https://github.com/mrdavidharms/common-js#readme",
+  "dependencies": {
+    "lodash": "^4.15.0"
+  }
+}
